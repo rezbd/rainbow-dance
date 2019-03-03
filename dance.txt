@@ -1,4 +1,5 @@
 Step Left
 Step Right
 Jump up and down
+Twirl your hand.
 Do the rainbow dance.
